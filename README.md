@@ -19,3 +19,14 @@ To take a look codes this project --> **[click](https://github.com/alibalun/RASP
 
 ### Description<br/>
 When Joystick's direction is change, Led lights up on this direction.
+***
+## Car Park Sensor
+![CarSensor](https://user-images.githubusercontent.com/76736056/175833889-404aa94d-0a98-4452-a8fa-a36b04ef6f43.PNG)
+
+To take a look codes this project --> **[click](link will come to here)**
+### Description
+Helps cars for the park.
+
+>_1-) If distance between 2 - 10 red led lights up and buzzer noise continously._<br/>
+>_2-) If distance between 10 - 20, yellow led lights up, buzzer noise for 250ms and after buzzer stops 250ms.(Continues like this until change distance)_<br/>
+>_3-) If distance between 20 - 30 green led light up, buzzer noise for 500ms and after buzzer stops 500ms.(Continues like this until change distance)_<br/>
